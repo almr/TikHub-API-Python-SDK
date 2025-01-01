@@ -14,7 +14,7 @@ with open("README.md", "r", encoding='utf8') as fh:
 
 setup(
     name="tikhub",
-    version=version,
+    version="1.12.10",
     author="TikHub.io",
     author_email="tikhub.io@proton.me",
     description="A Python SDK for TikHub RESTful API",
